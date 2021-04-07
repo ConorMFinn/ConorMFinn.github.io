@@ -13,17 +13,3 @@ stuff. Since it's something I currently have no experience in it might be nice t
 this later and see how my skills have developed. 
 
 Let's wait and see. 
-
-
-<div class="post-categories">
-  Tags: &nbsp; 
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
