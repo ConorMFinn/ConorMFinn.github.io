@@ -41,3 +41,5 @@ It was on the country lanes that I fell in love. Even on the most uncomfortable 
 I would tell anyone who is confused by people who ride motorbikes to just book a CBT and give it a go. The instructors are usually delightful and really passionate. They'll talk you through everything and make sure whatever you're doing is safe and secure. 
 
 You might just discover it's the hobby you've always been waiting for. 
+
+{% include image.html url="/images/2021-04-02/cbt_bikes.jpeg" description="Left to right: My Lexmoto ZSB, my instructor's Honda CB500F, and James' Lexmoto scooter (& James)." %}
